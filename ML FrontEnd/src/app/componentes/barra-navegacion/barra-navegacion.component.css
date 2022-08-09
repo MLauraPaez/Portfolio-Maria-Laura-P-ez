@@ -1,0 +1,11 @@
+.container{
+     border-radius: 2%;
+    margin: 5px;
+    background-color: bisque;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+#github{
+    margin-right: 10px;
+}

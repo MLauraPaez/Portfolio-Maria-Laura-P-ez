@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\OneDrive\\Escritorio\\descargasgit\\Mi-Portfolio-FrontEnd"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mi-Portfolio-FrontEnd"
+	}
+}
